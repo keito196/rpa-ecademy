@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Kr44aZRAm64Cj+DkZs8DxPC0ubEvTHMd/G83E3qZ/1xE8wlIqV8LOyAtwWd5nartS8u/G6NuVCcGSGQA5p76w==",
+  "success": true,
+  "projectFilePath": "D:\\RPA\\introduction_to_the_RPA_Developer_Role\\GetTimeInBucharest\\GetTimeInBucharest\\GetTimeInBucharest\\.local\\",
+  "expectedPackageFiles": [
+    "C:\\Users\\HADES\\.nuget\\packages\\avalonedit\\5.0.3\\avalonedit.5.0.3.nupkg.sha512",
+    "C:\\Users\\HADES\\.nuget\\packages\\csvhelper\\2.13.5\\csvhelper.2.13.5.nupkg.sha512",
+    "C:\\Users\\HADES\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\extended.wpf.toolkit.2.8.0.nupkg.sha512",
+    "C:\\Users\\HADES\\.nuget\\packages\\humanizer.core\\2.4.2\\humanizer.core.2.4.2.nupkg.sha512",
+    "C:\\Users\\HADES\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0\\microsoft.aspnet.signalr.client.2.4.0.nupkg.sha512",
+    "C:\\Users\\HADES\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.20\\microsoft.rest.clientruntime.2.3.20.nupkg.sha512",
+    "C:\\Users\\HADES\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\HADES\\.nuget\\packages\\uipath\\19.5.7079.28746\\uipath.19.5.7079.28746.nupkg.sha512",
+    "C:\\Users\\HADES\\.nuget\\packages\\uipath.ocr.contracts\\1.0.0\\uipath.ocr.contracts.1.0.0.nupkg.sha512",
+    "C:\\Users\\HADES\\.nuget\\packages\\uipath.system.activities\\19.6.0\\uipath.system.activities.19.6.0.nupkg.sha512",
+    "C:\\Users\\HADES\\.nuget\\packages\\uipath.uiautomation.activities\\19.5.0\\uipath.uiautomation.activities.19.5.0.nupkg.sha512",
+    "C:\\Users\\HADES\\.nuget\\packages\\uipath.vision\\1.6.0\\uipath.vision.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
